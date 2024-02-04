@@ -1,7 +1,3 @@
-# Next.js & NextUI Template
-
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
-
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
