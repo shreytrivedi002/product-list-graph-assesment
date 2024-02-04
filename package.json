@@ -32,11 +32,17 @@
     "intl-messageformat": "^10.5.0",
     "next": "14.0.2",
     "next-themes": "^0.2.1",
+    "plotly.js": "^2.29.0",
+    "plotly.js-dist": "^2.29.0",
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-plotly.js": "^2.6.0",
     "tailwind-variants": "^0.1.18",
     "tailwindcss": "3.3.5",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/react-plotly.js": "^2.6.3"
   }
 }
