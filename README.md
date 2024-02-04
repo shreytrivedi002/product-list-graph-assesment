@@ -11,7 +11,6 @@ This is a template for creating applications using Next.js 13 (app directory) an
 
 ## How to Use
 
-
 `
 ### Install dependencies
 
